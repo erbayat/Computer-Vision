@@ -1,0 +1,7 @@
+;C: 10;C: 100;C: 200;C: 500
+Kernel: Linear, Cluster Number: 50;0.29;0.34;0.3;0.31
+Kernel: Linear, Cluster Number: 100;0.31;0.35;0.37;0.31
+Kernel: Linear, Cluster Number: 500;0.12;0.22;0.25;0.29
+Kernel: Chi-Squared, Cluster Number: 50;0.36;0.36;0.39;0.39
+Kernel: Chi-Squared, Cluster Number: 100;0.41;0.4;0.37;0.42
+Kernel: Chi-Squared, Cluster Number: 500;0.29;0.29;0.31;0.35
